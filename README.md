@@ -3,7 +3,7 @@
 This project is a responsive landing page for a headphones brand. It highlights the product's features, provides an intuitive user experience, and is fully responsive across various screen sizes. The design is clean, modern, and visually engaging, built using HTML, CSS, and JavaScript.
 <br>
 <h2> Features </h2>
-<h4> Responsive Design: </h4> Responsive Design: Optimized for desktop, tablet, and mobile views with a consistent layout across different screen sizes.
+<h4> Responsive Design: </h4> Optimized for desktop, tablet, and mobile views with a consistent layout across different screen sizes.
 <br>
 <h4> Interactive UI Elements: </h4> JavaScript-powered elements for a dynamic and engaging experience, including animations, hover effects, and smooth scrolling.
 <br>
