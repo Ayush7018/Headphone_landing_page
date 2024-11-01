@@ -40,11 +40,6 @@ The "Responsive Headphones Landing Page" is a web project showcasing a modern pr
 <h4> Cons: </h4>
 Lazy-loading images could help reduce initial load times, especially on mobile. <br>
 Analyzing and minimizing unused CSS or JavaScript could further improve page speed. <br>
-<h3> Suggested Improvements</h3>
-1. Accessibility Enhancements: Ensure color contrast meets accessibility standards, add ARIA labels, and optimize for keyboard navigation. <br>
-2. Cross-Browser Testing: Verify design consistency across browsers, especially on mobile versions of older browsers. <br>
-3. Performance Improvements: Implement lazy loading for images and optimize JavaScript to further reduce load times. <br>
-4. Testing & Debugging: Continuous testing across devices and browsers, including edge cases, would ensure a more robust experience. <br>
 
 <br>
 <h2> Features </h2>
@@ -65,3 +60,8 @@ CSS3: To style the page, create layouts, and make it responsive with media queri
 <br>
 JavaScript: For interactive elements like the navigation bar, modal pop-ups, and smooth scroll effects.
 
+<h2>Suggested Improvements</h2>
+1. Accessibility Enhancements: Ensure color contrast meets accessibility standards, add ARIA labels, and optimize for keyboard navigation. <br>
+2. Cross-Browser Testing: Verify design consistency across browsers, especially on mobile versions of older browsers. <br>
+3. Performance Improvements: Implement lazy loading for images and optimize JavaScript to further reduce load times. <br>
+4. Testing & Debugging: Continuous testing across devices and browsers, including edge cases, would ensure a more robust experience. <br>
