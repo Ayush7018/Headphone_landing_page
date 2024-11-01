@@ -14,7 +14,6 @@ This project is a responsive landing page for a headphones brand. It highlights 
 <h4> Product Showcase: </h4> A visually appealing section to showcase the headphones' design, features, and specifications.
 <br>
 <h2> Technologies Used </h2>
-<br>
 HTML5: For structuring the page and providing a semantic foundation.
 <br>
 CSS3: To style the page, create layouts, and make it responsive with media queries.
